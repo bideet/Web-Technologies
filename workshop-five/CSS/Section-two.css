@@ -1,0 +1,29 @@
+img {
+    height: auto;
+    width: 400px;
+}
+
+.messi, .maradona, .pele {
+    display: inline-block;
+}
+
+body {
+    word-spacing: 2.6px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    background-color: rgb(71, 87, 14);
+    text-align: center;
+}
+
+.m, .md, .pe {
+    font-size: xx-large;
+}
+
+p {
+    padding-bottom: -500px;
+}
+
+.a, .ar, .b {
+    font-style: italic;
+}
